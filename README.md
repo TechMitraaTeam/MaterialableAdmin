@@ -38,7 +38,7 @@ Following are the features included
 
    👇 - Admin Users Listing
    
-![image](https://raw.githubusercontent.com/techmitraa/images/master/MaterialableAdmin/AdminUsers.png)
+![image](https://raw.githubusercontent.com/techmitraa/images/master/MaterialableAdmin/Admin_Users.png)
 
 ## Dependencies
 
